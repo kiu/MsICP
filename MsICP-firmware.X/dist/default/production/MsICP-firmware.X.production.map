@@ -1,0 +1,1321 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodhi4.o)
+                              build/default/production/main.o (__divmodhi4)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_exit.o)
+                              C:/Users/kiu/.mchp_packs/Microchip/AVR-Dx_DFP/2.5.294/gcc/dev/avr64dd32/avrxmega2/crtavr64dd32.o (exit)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_copy_data.o)
+                              build/default/production/mcc_generated_files/spi/src/spi0.o (__do_copy_data)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_clear_bss.o)
+                              build/default/production/mcc_generated_files/adc/src/adc0.o (__do_clear_bss)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_udivmodhi4.o)
+                              c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(rand.o)
+                              build/default/production/main.o (rand)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(memset.o)
+                              build/default/production/main.o (memset)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(iob.o)
+                              build/default/production/mcc_generated_files/uart/src/usart0.o (__iob)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(printf.o)
+                              build/default/production/main.o (printf)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(putchar.o)
+                              build/default/production/main.o (putchar)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(puts.o)
+                              build/default/production/main.o (puts)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(sscanf.o)
+                              build/default/production/main.o (sscanf)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(vfprintf_std.o)
+                              c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(printf.o) (vfprintf)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(vfscanf_std.o)
+                              c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(sscanf.o) (vfscanf)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(isspace.o)
+                              c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(vfscanf_std.o) (isspace)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(strchr_P.o)
+                              c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(vfscanf_std.o) (strchr_P)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(strnlen_P.o)
+                              c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(vfprintf_std.o) (strnlen_P)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(strnlen.o)
+                              c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(vfprintf_std.o) (strnlen)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(fgetc.o)
+                              c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(vfscanf_std.o) (fgetc)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(fputc.o)
+                              c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(putchar.o) (fputc)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(ungetc.o)
+                              c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(vfscanf_std.o) (ungetc)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(ultoa_invert.o)
+                              c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(vfprintf_std.o) (__ultoa_invert)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(cty_isfalse.o)
+                              c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(isspace.o) (__ctype_isfalse)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodsi4.o)
+                              c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(rand.o) (__divmodsi4)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_negsi2.o)
+                              c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodsi4.o) (__negsi2)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_muluhisi3.o)
+                              c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(rand.o) (__muluhisi3)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_mulshisi3.o)
+                              c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(rand.o) (__mulohisi3)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_prologue.o)
+                              c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(printf.o) (__prologue_saves__)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_epilogue.o)
+                              c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(printf.o) (__epilogue_restores__)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_udivmodsi4.o)
+                              c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodsi4.o) (__udivmodsi4)
+c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_umulhisi3.o)
+                              c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_muluhisi3.o) (__umulhisi3)
+
+Allocating common symbols
+Common symbol       size              file
+
+USART0_RxInterruptHandler
+                    0x2               build/default/production/mcc_generated_files/uart/src/usart0.o
+frame_intensities   0x24              build/default/production/main.o
+USART0_TxInterruptHandler
+                    0x2               build/default/production/mcc_generated_files/uart/src/usart0.o
+USART0_OverrunErrorHandler
+                    0x2               build/default/production/mcc_generated_files/uart/src/usart0.o
+usart0TxBufferRemaining
+                    0x1               build/default/production/mcc_generated_files/uart/src/usart0.o
+usart0RxCount       0x1               build/default/production/mcc_generated_files/uart/src/usart0.o
+frame_next_intensities
+                    0x24              build/default/production/main.o
+buffer              0xa6              build/default/production/main.o
+frame_next_hues     0x48              build/default/production/main.o
+USART0_FramingErrorHandler
+                    0x2               build/default/production/mcc_generated_files/uart/src/usart0.o
+rx_buf              0x20              build/default/production/main.o
+USART0_ParityErrorHandler
+                    0x2               build/default/production/mcc_generated_files/uart/src/usart0.o
+frame_hues          0x48              build/default/production/main.o
+frame_hues_directions
+                    0x24              build/default/production/main.o
+frame_next_touched  0x24              build/default/production/main.o
+__iob               0x6               c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(iob.o)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 C:/Users/kiu/.mchp_packs/Microchip/AVR-Dx_DFP/2.5.294/gcc/dev/avr64dd32/avrxmega2/crtavr64dd32.o
+ .bss           0x0000000000000000        0x0 C:/Users/kiu/.mchp_packs/Microchip/AVR-Dx_DFP/2.5.294/gcc/dev/avr64dd32/avrxmega2/crtavr64dd32.o
+ .text          0x0000000000000000        0x0 build/default/production/mcc_generated_files/adc/src/adc0.o
+ .data          0x0000000000000000        0x0 build/default/production/mcc_generated_files/adc/src/adc0.o
+ .bss           0x0000000000000000        0x0 build/default/production/mcc_generated_files/adc/src/adc0.o
+ .text.ADC0_EnableAutoTrigger
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/adc/src/adc0.o
+ .text.ADC0_DisableAutoTrigger
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/adc/src/adc0.o
+ .text.ADC0_SetWindowHigh
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/adc/src/adc0.o
+ .text.ADC0_SetWindowLow
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/adc/src/adc0.o
+ .text.ADC0_SetWindowMode
+                0x0000000000000000        0x6 build/default/production/mcc_generated_files/adc/src/adc0.o
+ .text.ADC0_SetWindowChannel
+                0x0000000000000000        0x6 build/default/production/mcc_generated_files/adc/src/adc0.o
+ .text.ADC0_StartConversion
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/adc/src/adc0.o
+ .text.ADC0_IsConversionDone
+                0x0000000000000000        0x8 build/default/production/mcc_generated_files/adc/src/adc0.o
+ .text.ADC0_GetConversionResult
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/adc/src/adc0.o
+ .text.ADC0_GetWindowResult
+                0x0000000000000000       0x10 build/default/production/mcc_generated_files/adc/src/adc0.o
+ .text.ADC0_GetResolution
+                0x0000000000000000       0x10 build/default/production/mcc_generated_files/adc/src/adc0.o
+ .text.ADC0_RegisterWindowCallback
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/adc/src/adc0.o
+ .text.ADC0_RegisterResrdyCallback
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/adc/src/adc0.o
+ .text          0x0000000000000000        0x0 build/default/production/mcc_generated_files/nvm/src/nvm.o
+ .data          0x0000000000000000        0x0 build/default/production/mcc_generated_files/nvm/src/nvm.o
+ .bss           0x0000000000000000        0x0 build/default/production/mcc_generated_files/nvm/src/nvm.o
+ .text.NVM_StatusGet
+                0x0000000000000000        0xe build/default/production/mcc_generated_files/nvm/src/nvm.o
+ .text.NVM_StatusClear
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/nvm/src/nvm.o
+ .text.EEPROM_IsBusy
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/nvm/src/nvm.o
+ .text          0x0000000000000000        0x0 build/default/production/mcc_generated_files/spi/src/spi0.o
+ .data          0x0000000000000000        0x0 build/default/production/mcc_generated_files/spi/src/spi0.o
+ .bss           0x0000000000000000        0x0 build/default/production/mcc_generated_files/spi/src/spi0.o
+ .text.SPI0_Deinitialize
+                0x0000000000000000       0x12 build/default/production/mcc_generated_files/spi/src/spi0.o
+ .text.SPI0_RxCompleteCallbackRegister
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/spi/src/spi0.o
+ .text.SPI0_ByteExchange
+                0x0000000000000000       0x58 build/default/production/mcc_generated_files/spi/src/spi0.o
+ .text.SPI0_ByteWrite
+                0x0000000000000000       0x10 build/default/production/mcc_generated_files/spi/src/spi0.o
+ .text.SPI0_ByteRead
+                0x0000000000000000       0x12 build/default/production/mcc_generated_files/spi/src/spi0.o
+ .text.SPI0_IsTxReady
+                0x0000000000000000        0xe build/default/production/mcc_generated_files/spi/src/spi0.o
+ .text.SPI0_IsRxReady
+                0x0000000000000000       0x18 build/default/production/mcc_generated_files/spi/src/spi0.o
+ .text.SPI0_BufferExchange
+                0x0000000000000000       0x40 build/default/production/mcc_generated_files/spi/src/spi0.o
+ .text.SPI0_BufferRead
+                0x0000000000000000       0x36 build/default/production/mcc_generated_files/spi/src/spi0.o
+ .text.SPI0_Close
+                0x0000000000000000       0x12 build/default/production/mcc_generated_files/spi/src/spi0.o
+ .text.SPI0_ISR
+                0x0000000000000000       0xa0 build/default/production/mcc_generated_files/spi/src/spi0.o
+ .rodata.SPI0_Host
+                0x0000000000000000       0x1c build/default/production/mcc_generated_files/spi/src/spi0.o
+ .text          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/clock.o
+ .data          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/clock.o
+ .bss           0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/clock.o
+ .text.CFD_Enable
+                0x0000000000000000        0xe build/default/production/mcc_generated_files/system/src/clock.o
+ .text.CFD_Disable
+                0x0000000000000000       0x10 build/default/production/mcc_generated_files/system/src/clock.o
+ .text          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/interrupt.o
+ .data          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/interrupt.o
+ .bss           0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/interrupt.o
+ .text          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/protected_io.o
+ .data          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/protected_io.o
+ .bss           0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/protected_io.o
+ .text          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/pins.o
+ .data          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/pins.o
+ .bss           0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/pins.o
+ .text.IO_PA1_SetInterruptHandler
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/system/src/pins.o
+ .text.IO_PA0_SetInterruptHandler
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/system/src/pins.o
+ .text.IO_PA5_SetInterruptHandler
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/system/src/pins.o
+ .text.IO_PA4_SetInterruptHandler
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/system/src/pins.o
+ .text.IO_PA6_SetInterruptHandler
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/system/src/pins.o
+ .text          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/config_bits.o
+ .data          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/config_bits.o
+ .bss           0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/config_bits.o
+ .text          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/system.o
+ .data          0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/system.o
+ .bss           0x0000000000000000        0x0 build/default/production/mcc_generated_files/system/src/system.o
+ .text          0x0000000000000000        0x0 build/default/production/mcc_generated_files/timer/src/delay.o
+ .data          0x0000000000000000        0x0 build/default/production/mcc_generated_files/timer/src/delay.o
+ .bss           0x0000000000000000        0x0 build/default/production/mcc_generated_files/timer/src/delay.o
+ .text.DELAY_microseconds
+                0x0000000000000000       0x3a build/default/production/mcc_generated_files/timer/src/delay.o
+ .text          0x0000000000000000        0x0 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .data          0x0000000000000000        0x0 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .bss           0x0000000000000000        0x0 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_Deinitialize
+                0x0000000000000000       0x24 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_TransmitEnable
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_TransmitDisable
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_AutoBaudQuery
+                0x0000000000000000        0xa build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_IsTxReady
+                0x0000000000000000        0xe build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_IsTxDone
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_ErrorGet
+                0x0000000000000000       0x2a build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_Write
+                0x0000000000000000       0x40 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_FramingErrorCallbackRegister
+                0x0000000000000000        0xe build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_OverrunErrorCallbackRegister
+                0x0000000000000000        0xe build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_ParityErrorCallbackRegister
+                0x0000000000000000        0xe build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_TxCompleteCallbackRegister
+                0x0000000000000000        0xe build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_AutoBaudSet
+                0x0000000000000000       0x30 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_Enable
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_Disable
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_ReceiveEnable
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_ReceiveDisable
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_IsAutoBaudDetectError
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_AutoBaudDetectErrorReset
+                0x0000000000000000       0x38 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_TransmitInterruptEnable
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_TransmitInterruptDisable
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_ReceiveInterruptEnable
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_ReceiveInterruptDisable
+                0x0000000000000000        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+ .rodata.UART0  0x0000000000000000       0x30 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text          0x0000000000000000        0x0 build/default/production/mcc_generated_files/vref/src/vref.o
+ .data          0x0000000000000000        0x0 build/default/production/mcc_generated_files/vref/src/vref.o
+ .bss           0x0000000000000000        0x0 build/default/production/mcc_generated_files/vref/src/vref.o
+ .text          0x0000000000000000        0x0 build/default/production/main.o
+ .data          0x0000000000000000        0x0 build/default/production/main.o
+ .bss           0x0000000000000000        0x0 build/default/production/main.o
+ .text.wait     0x0000000000000000       0x36 build/default/production/main.o
+ .text.load_value
+                0x0000000000000000        0x8 build/default/production/main.o
+ .text.save_value
+                0x0000000000000000       0x2e build/default/production/main.o
+ .text.interact_key
+                0x0000000000000000       0x7e build/default/production/main.o
+ .text.frame_fade_intensity
+                0x0000000000000000       0x2e build/default/production/main.o
+ .text.frame_next_set_h
+                0x0000000000000000       0x2e build/default/production/main.o
+ .text.frame_next_set_i
+                0x0000000000000000       0x22 build/default/production/main.o
+ .text.frame_next_clear_i
+                0x0000000000000000       0x2e build/default/production/main.o
+ .text.anim     0x0000000000000000       0x80 build/default/production/main.o
+ .text          0x0000000000000000        0x0 build/default/production/anim.o
+ .data          0x0000000000000000        0x0 build/default/production/anim.o
+ .bss           0x0000000000000000        0x0 build/default/production/anim.o
+ .text.hue_add  0x0000000000000000       0x12 build/default/production/anim.o
+ .text.hue_rem  0x0000000000000000       0x14 build/default/production/anim.o
+ .rodata.anim_letters
+                0x0000000000000000       0x46 build/default/production/anim.o
+ .text          0x0000000000000000        0x0 build/default/production/fast_hsv2rgb_8bit.o
+ .data          0x0000000000000000        0x0 build/default/production/fast_hsv2rgb_8bit.o
+ .bss           0x0000000000000000        0x0 build/default/production/fast_hsv2rgb_8bit.o
+ .text          0x0000000000000000        0x0 build/default/production/fast_hsv2rgb_32bit.o
+ .data          0x0000000000000000        0x0 build/default/production/fast_hsv2rgb_32bit.o
+ .bss           0x0000000000000000        0x0 build/default/production/fast_hsv2rgb_32bit.o
+ .text.fast_hsv2rgb_32bit
+                0x0000000000000000       0x98 build/default/production/fast_hsv2rgb_32bit.o
+ .comment       0x0000000000000000       0x31 build/default/production/fast_hsv2rgb_32bit.o
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodhi4.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodhi4.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodhi4.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_clear_bss.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_clear_bss.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_clear_bss.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_udivmodhi4.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_udivmodhi4.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_udivmodhi4.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(rand.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(rand.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(memset.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(memset.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(memset.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(iob.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(iob.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(iob.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(printf.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(printf.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(printf.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(putchar.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(putchar.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(putchar.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(puts.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(puts.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(puts.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(sscanf.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(sscanf.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(sscanf.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(vfprintf_std.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(vfprintf_std.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(vfprintf_std.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(vfscanf_std.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(vfscanf_std.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(vfscanf_std.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(isspace.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(isspace.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(isspace.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(strchr_P.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(strchr_P.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(strchr_P.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(strnlen_P.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(strnlen_P.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(strnlen_P.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(strnlen.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(strnlen.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(strnlen.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(fgetc.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(fgetc.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(fgetc.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(fputc.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(fputc.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(fputc.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(ungetc.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(ungetc.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(ungetc.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(ultoa_invert.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(ultoa_invert.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(ultoa_invert.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(cty_isfalse.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(cty_isfalse.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(cty_isfalse.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodsi4.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodsi4.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodsi4.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_negsi2.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_negsi2.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_negsi2.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_negsi2.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_muluhisi3.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_muluhisi3.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_muluhisi3.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_mulshisi3.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_mulshisi3.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_mulshisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_mulshisi3.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_prologue.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_prologue.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_prologue.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_prologue.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_epilogue.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_epilogue.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_epilogue.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_epilogue.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_umulhisi3.o)
+ .data          0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_umulhisi3.o)
+ .bss           0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_umulhisi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000010000 xr
+data             0x0000000000806000 0x0000000000002000 rw !x
+eeprom           0x0000000000810000 0x0000000000000100 rw !x
+fuse             0x0000000000820000 0x0000000000000010 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x806000
+                0x0000000000008000                __RODATA_PM_OFFSET__ = 0x8000
+LOAD C:/Users/kiu/.mchp_packs/Microchip/AVR-Dx_DFP/2.5.294/gcc/dev/avr64dd32/avrxmega2/crtavr64dd32.o
+LOAD build/default/production/mcc_generated_files/adc/src/adc0.o
+LOAD build/default/production/mcc_generated_files/nvm/src/nvm.o
+LOAD build/default/production/mcc_generated_files/spi/src/spi0.o
+LOAD build/default/production/mcc_generated_files/system/src/clock.o
+LOAD build/default/production/mcc_generated_files/system/src/interrupt.o
+LOAD build/default/production/mcc_generated_files/system/src/protected_io.o
+LOAD build/default/production/mcc_generated_files/system/src/pins.o
+LOAD build/default/production/mcc_generated_files/system/src/config_bits.o
+LOAD build/default/production/mcc_generated_files/system/src/system.o
+LOAD build/default/production/mcc_generated_files/timer/src/delay.o
+LOAD build/default/production/mcc_generated_files/uart/src/usart0.o
+LOAD build/default/production/mcc_generated_files/vref/src/vref.o
+LOAD build/default/production/main.o
+LOAD build/default/production/anim.o
+LOAD build/default/production/fast_hsv2rgb_8bit.o
+LOAD build/default/production/fast_hsv2rgb_32bit.o
+                0x0000000000000001                __MPLAB_BUILD = 0x1
+START GROUP
+LOAD c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libm.a
+END GROUP
+START GROUP
+LOAD c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a
+LOAD c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libm.a
+LOAD c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a
+LOAD C:/Users/kiu/.mchp_packs/Microchip/AVR-Dx_DFP/2.5.294/gcc/dev/avr64dd32/avrxmega2\libavr64dd32.a
+END GROUP
+                [0x0000000000000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000806000]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x802000
+                [0x0000000000010000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x100000
+                [0x0000000000002000]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x0000000000000100]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000010]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000     0x309c
+ *(.vectors)
+ .vectors       0x0000000000000000       0x90 C:/Users/kiu/.mchp_packs/Microchip/AVR-Dx_DFP/2.5.294/gcc/dev/avr64dd32/avrxmega2/crtavr64dd32.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000000000000090                . = ALIGN (0x2)
+                0x0000000000000090                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000090        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000090                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ .progmem.data  0x0000000000000090        0xc c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(vfscanf_std.o)
+ *(.progmem*)
+                0x000000000000009c                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000000000009c                __ctors_start = .
+ *(.ctors)
+                0x000000000000009c                __ctors_end = .
+                0x000000000000009c                __dtors_start = .
+ *(.dtors)
+                0x000000000000009c                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000000000009c        0x0 C:/Users/kiu/.mchp_packs/Microchip/AVR-Dx_DFP/2.5.294/gcc/dev/avr64dd32/avrxmega2/crtavr64dd32.o
+                0x000000000000009c                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000000000009c        0xc C:/Users/kiu/.mchp_packs/Microchip/AVR-Dx_DFP/2.5.294/gcc/dev/avr64dd32/avrxmega2/crtavr64dd32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000000000000a8       0x16 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_copy_data.o)
+                0x00000000000000a8                __do_copy_data
+ .init4         0x00000000000000be       0x10 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_clear_bss.o)
+                0x00000000000000be                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000000000000ce        0x8 C:/Users/kiu/.mchp_packs/Microchip/AVR-Dx_DFP/2.5.294/gcc/dev/avr64dd32/avrxmega2/crtavr64dd32.o
+ *(.init9)
+ *(.text)
+ .text          0x00000000000000d6        0x4 C:/Users/kiu/.mchp_packs/Microchip/AVR-Dx_DFP/2.5.294/gcc/dev/avr64dd32/avrxmega2/crtavr64dd32.o
+                0x00000000000000d6                __vector_28
+                0x00000000000000d6                __vector_1
+                0x00000000000000d6                __vector_32
+                0x00000000000000d6                __vector_12
+                0x00000000000000d6                __bad_interrupt
+                0x00000000000000d6                __vector_6
+                0x00000000000000d6                __vector_31
+                0x00000000000000d6                __vector_35
+                0x00000000000000d6                __vector_3
+                0x00000000000000d6                __vector_30
+                0x00000000000000d6                __vector_25
+                0x00000000000000d6                __vector_11
+                0x00000000000000d6                __vector_13
+                0x00000000000000d6                __vector_17
+                0x00000000000000d6                __vector_19
+                0x00000000000000d6                __vector_7
+                0x00000000000000d6                __vector_5
+                0x00000000000000d6                __vector_33
+                0x00000000000000d6                __vector_4
+                0x00000000000000d6                __vector_9
+                0x00000000000000d6                __vector_2
+                0x00000000000000d6                __vector_15
+                0x00000000000000d6                __vector_14
+                0x00000000000000d6                __vector_10
+                0x00000000000000d6                __vector_16
+                0x00000000000000d6                __vector_18
+                0x00000000000000da                . = ALIGN (0x2)
+ *(.text.*)
+ .text.ADC0_Initialize
+                0x00000000000000da       0x2e build/default/production/mcc_generated_files/adc/src/adc0.o
+                0x00000000000000da                ADC0_Initialize
+ .text.ADC0_Enable
+                0x0000000000000108        0xc build/default/production/mcc_generated_files/adc/src/adc0.o
+                0x0000000000000108                ADC0_Enable
+ .text.ADC0_Disable
+                0x0000000000000114        0xc build/default/production/mcc_generated_files/adc/src/adc0.o
+                0x0000000000000114                ADC0_Disable
+ .text.ADC0_GetConversion
+                0x0000000000000120       0x22 build/default/production/mcc_generated_files/adc/src/adc0.o
+                0x0000000000000120                ADC0_GetConversion
+ .text.__vector_27
+                0x0000000000000142       0x58 build/default/production/mcc_generated_files/adc/src/adc0.o
+                0x0000000000000142                __vector_27
+ .text.__vector_26
+                0x000000000000019a       0x58 build/default/production/mcc_generated_files/adc/src/adc0.o
+                0x000000000000019a                __vector_26
+ .text.NVM_Initialize
+                0x00000000000001f2        0xc build/default/production/mcc_generated_files/nvm/src/nvm.o
+                0x00000000000001f2                NVM_Initialize
+ .text.EEPROM_Read
+                0x00000000000001fe        0x6 build/default/production/mcc_generated_files/nvm/src/nvm.o
+                0x00000000000001fe                EEPROM_Read
+ .text.EEPROM_Write
+                0x0000000000000204       0x2a build/default/production/mcc_generated_files/nvm/src/nvm.o
+                0x0000000000000204                EEPROM_Write
+ .text.SPI0_Initialize
+                0x000000000000022e       0x1a build/default/production/mcc_generated_files/spi/src/spi0.o
+                0x000000000000022e                SPI0_Initialize
+ .text.SPI0_Open
+                0x0000000000000248       0x2e build/default/production/mcc_generated_files/spi/src/spi0.o
+                0x0000000000000248                SPI0_Open
+ .text.SPI0_BufferWrite
+                0x0000000000000276       0x40 build/default/production/mcc_generated_files/spi/src/spi0.o
+                0x0000000000000276                SPI0_BufferWrite
+ .text.__vector_20
+                0x00000000000002b6       0xe2 build/default/production/mcc_generated_files/spi/src/spi0.o
+                0x00000000000002b6                __vector_20
+ .text.CLOCK_Initialize
+                0x0000000000000398       0x8e build/default/production/mcc_generated_files/system/src/clock.o
+                0x0000000000000398                CLOCK_Initialize
+ .text.CPUINT_Initialize
+                0x0000000000000426       0x18 build/default/production/mcc_generated_files/system/src/interrupt.o
+                0x0000000000000426                CPUINT_Initialize
+ .text.protected_write_io
+                0x000000000000043e        0x8 build/default/production/mcc_generated_files/system/src/protected_io.o
+                0x000000000000043e                protected_write_io
+ .text.IO_PA1_DefaultInterruptHandler
+                0x0000000000000446        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+                0x0000000000000446                IO_PA1_DefaultInterruptHandler
+ .text.IO_PA6_DefaultInterruptHandler
+                0x0000000000000448        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+                0x0000000000000448                IO_PA6_DefaultInterruptHandler
+ .text.IO_PA0_DefaultInterruptHandler
+                0x000000000000044a        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+                0x000000000000044a                IO_PA0_DefaultInterruptHandler
+ .text.IO_PA5_DefaultInterruptHandler
+                0x000000000000044c        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+                0x000000000000044c                IO_PA5_DefaultInterruptHandler
+ .text.IO_PA4_DefaultInterruptHandler
+                0x000000000000044e        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+                0x000000000000044e                IO_PA4_DefaultInterruptHandler
+ .text.PIN_MANAGER_Initialize
+                0x0000000000000450       0xec build/default/production/mcc_generated_files/system/src/pins.o
+                0x0000000000000450                PIN_MANAGER_Initialize
+ .text.__vector_8
+                0x000000000000053c       0x8e build/default/production/mcc_generated_files/system/src/pins.o
+                0x000000000000053c                __vector_8
+ .text.__vector_29
+                0x00000000000005ca       0x1c build/default/production/mcc_generated_files/system/src/pins.o
+                0x00000000000005ca                __vector_29
+ .text.__vector_24
+                0x00000000000005e6       0x1c build/default/production/mcc_generated_files/system/src/pins.o
+                0x00000000000005e6                __vector_24
+ .text.__vector_34
+                0x0000000000000602       0x1c build/default/production/mcc_generated_files/system/src/pins.o
+                0x0000000000000602                __vector_34
+ .text.SYSTEM_Initialize
+                0x000000000000061e       0x20 build/default/production/mcc_generated_files/system/src/system.o
+                0x000000000000061e                SYSTEM_Initialize
+ .text.DELAY_milliseconds
+                0x000000000000063e       0x1e build/default/production/mcc_generated_files/timer/src/delay.o
+                0x000000000000063e                DELAY_milliseconds
+ .text.USART0_Initialize
+                0x000000000000065c       0x92 build/default/production/mcc_generated_files/uart/src/usart0.o
+                0x000000000000065c                USART0_Initialize
+ .text.USART0_IsRxReady
+                0x00000000000006ee        0xe build/default/production/mcc_generated_files/uart/src/usart0.o
+                0x00000000000006ee                USART0_IsRxReady
+ .text.USART0_Read
+                0x00000000000006fc       0x40 build/default/production/mcc_generated_files/uart/src/usart0.o
+                0x00000000000006fc                USART0_Read
+ .text.USART0_ReceiveISR
+                0x000000000000073c       0xc4 build/default/production/mcc_generated_files/uart/src/usart0.o
+                0x000000000000073c                USART0_ReceiveISR
+ .text.USART0_TransmitISR
+                0x0000000000000800       0x4a build/default/production/mcc_generated_files/uart/src/usart0.o
+                0x0000000000000800                USART0_TransmitISR
+ .text.USART0_DefaultFramingErrorCallback
+                0x000000000000084a        0x2 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_RxCompleteCallbackRegister
+                0x000000000000084c        0xe build/default/production/mcc_generated_files/uart/src/usart0.o
+                0x000000000000084c                USART0_RxCompleteCallbackRegister
+ .text.USART0_DefaultParityErrorCallback
+                0x000000000000085a        0x2 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_DefaultOverrunErrorCallback
+                0x000000000000085c        0x2 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .text.USART0_printCHAR
+                0x000000000000085e       0x4c build/default/production/mcc_generated_files/uart/src/usart0.o
+                0x000000000000085e                USART0_printCHAR
+ .text.__vector_21
+                0x00000000000008aa      0x106 build/default/production/mcc_generated_files/uart/src/usart0.o
+                0x00000000000008aa                __vector_21
+ .text.__vector_22
+                0x00000000000009b0       0x8c build/default/production/mcc_generated_files/uart/src/usart0.o
+                0x00000000000009b0                __vector_22
+ .text.__vector_23
+                0x0000000000000a3c       0x2a build/default/production/mcc_generated_files/uart/src/usart0.o
+                0x0000000000000a3c                __vector_23
+ .text.VREF_Initialize
+                0x0000000000000a66        0xe build/default/production/mcc_generated_files/vref/src/vref.o
+                0x0000000000000a66                VREF_Initialize
+ .text.rx       0x0000000000000a74        0x8 build/default/production/main.o
+                0x0000000000000a74                rx
+ .text.reseed   0x0000000000000a7c       0x62 build/default/production/main.o
+                0x0000000000000a7c                reseed
+ .text.intensity_max
+                0x0000000000000ade        0x6 build/default/production/main.o
+                0x0000000000000ade                intensity_max
+ .text.store    0x0000000000000ae4       0x9a build/default/production/main.o
+                0x0000000000000ae4                store
+ .text.load     0x0000000000000b7e       0xbc build/default/production/main.o
+                0x0000000000000b7e                load
+ .text.menu_show
+                0x0000000000000c3a       0x50 build/default/production/main.o
+                0x0000000000000c3a                menu_show
+ .text.settings_show
+                0x0000000000000c8a       0x5a build/default/production/main.o
+                0x0000000000000c8a                settings_show
+ .text.interpret_line
+                0x0000000000000ce4      0x290 build/default/production/main.o
+                0x0000000000000ce4                interpret_line
+ .text.frame_send
+                0x0000000000000f74      0x144 build/default/production/main.o
+                0x0000000000000f74                frame_send
+ .text.frame_switch
+                0x00000000000010b8      0x168 build/default/production/main.o
+                0x00000000000010b8                frame_switch
+ .text.frame_fade
+                0x0000000000001220      0x21e build/default/production/main.o
+                0x0000000000001220                frame_fade
+ .text.frame_next_set_hi
+                0x000000000000143e       0x4e build/default/production/main.o
+                0x000000000000143e                frame_next_set_hi
+ .text.hasinteracted
+                0x000000000000148c        0x6 build/default/production/main.o
+                0x000000000000148c                hasinteracted
+ .text.startup.main
+                0x0000000000001492      0x7a2 build/default/production/main.o
+                0x0000000000001492                main
+ .text.anim_rainbow_script
+                0x0000000000001c34      0x11a build/default/production/anim.o
+                0x0000000000001c34                anim_rainbow_script
+ .text.anim_rainbow_scroll
+                0x0000000000001d4e      0x30a build/default/production/anim.o
+                0x0000000000001d4e                anim_rainbow_scroll
+ .text.anim_full_color_fade_rnd
+                0x0000000000002058       0x86 build/default/production/anim.o
+                0x0000000000002058                anim_full_color_fade_rnd
+ .text.anim_sparkle
+                0x00000000000020de      0x13e build/default/production/anim.o
+                0x00000000000020de                anim_sparkle
+ .text.fast_hsv2rgb_8bit
+                0x000000000000221c       0x8a build/default/production/fast_hsv2rgb_8bit.o
+                0x000000000000221c                fast_hsv2rgb_8bit
+ .text.libgcc.div
+                0x00000000000022a6       0x28 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodhi4.o)
+                0x00000000000022a6                _div
+                0x00000000000022a6                __divmodhi4
+ .text.libgcc.div
+                0x00000000000022ce       0x28 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_udivmodhi4.o)
+                0x00000000000022ce                __udivmodhi4
+ .text.avr-libc
+                0x00000000000022f6       0xb8 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(rand.o)
+                0x0000000000002388                rand_r
+                0x000000000000238e                rand
+                0x0000000000002398                srand
+ .text.avr-libc
+                0x00000000000023ae        0xe c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(memset.o)
+                0x00000000000023ae                memset
+ .text.avr-libc
+                0x00000000000023bc       0x2c c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(printf.o)
+                0x00000000000023bc                printf
+ .text.avr-libc
+                0x00000000000023e8        0xe c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(putchar.o)
+                0x00000000000023e8                putchar
+ .text.avr-libc
+                0x00000000000023f6       0x56 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(puts.o)
+                0x00000000000023f6                puts
+ .text.avr-libc
+                0x000000000000244c       0x32 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(sscanf.o)
+                0x000000000000244c                sscanf
+ .text.avr-libc
+                0x000000000000247e      0x3b4 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(vfprintf_std.o)
+                0x000000000000247e                vfprintf
+ .text.avr-libc
+                0x0000000000002832      0x520 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(vfscanf_std.o)
+                0x0000000000002b48                vfscanf
+ .text.avr-libc
+                0x0000000000002d52       0x12 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(isspace.o)
+                0x0000000000002d52                isspace
+ .text.avr-libc
+                0x0000000000002d64       0x16 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(strchr_P.o)
+                0x0000000000002d64                strchr_P
+ .text.avr-libc
+                0x0000000000002d7a       0x16 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(strnlen_P.o)
+                0x0000000000002d7a                strnlen_P
+ .text.avr-libc
+                0x0000000000002d90       0x16 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(strnlen.o)
+                0x0000000000002d90                strnlen
+ .text.avr-libc
+                0x0000000000002da6       0x78 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(fgetc.o)
+                0x0000000000002da6                fgetc
+ .text.avr-libc
+                0x0000000000002e1e       0x60 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(fputc.o)
+                0x0000000000002e1e                fputc
+ .text.avr-libc
+                0x0000000000002e7e       0x30 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(ungetc.o)
+                0x0000000000002e7e                ungetc
+ .text.avr-libc
+                0x0000000000002eae       0xbc c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(ultoa_invert.o)
+                0x0000000000002eae                __ultoa_invert
+ .text.avr-libc
+                0x0000000000002f6a        0x6 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(cty_isfalse.o)
+                0x0000000000002f6a                __ctype_isfalse
+                0x0000000000002f6e                __ctype_istrue
+ .text.libgcc.div
+                0x0000000000002f70       0x2e c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_divmodsi4.o)
+                0x0000000000002f70                __divmodsi4
+ .text.libgcc.div
+                0x0000000000002f9e       0x10 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_negsi2.o)
+                0x0000000000002f9e                __negsi2
+ .text.libgcc.mul
+                0x0000000000002fae       0x16 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_muluhisi3.o)
+                0x0000000000002fae                __muluhisi3
+ .text.libgcc.mul
+                0x0000000000002fc4       0x10 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_mulshisi3.o)
+                0x0000000000002fc4                __mulshisi3
+                0x0000000000002fca                __mulohisi3
+ .text.libgcc.prologue
+                0x0000000000002fd4       0x32 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_prologue.o)
+                0x0000000000002fd4                __prologue_saves__
+ .text.libgcc.prologue
+                0x0000000000003006       0x30 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_epilogue.o)
+                0x0000000000003006                __epilogue_restores__
+ .text.libgcc.div
+                0x0000000000003036       0x44 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_udivmodsi4.o)
+                0x0000000000003036                __udivmodsi4
+ .text.libgcc.mul
+                0x000000000000307a       0x1e c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_umulhisi3.o)
+                0x000000000000307a                __umulhisi3
+                0x0000000000003098                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000000000003098        0x0 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_exit.o)
+                0x0000000000003098                _exit
+                0x0000000000003098                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000003098        0x4 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/avrxmega2\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000000000000309c                _etext = .
+
+.data           0x0000000000806000      0x39a load address 0x000000000000309c
+                0x0000000000806000                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x0000000000806000        0x4 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(rand.o)
+ *(.data*)
+ .data.USART0_stream
+                0x0000000000806004        0xe build/default/production/mcc_generated_files/uart/src/usart0.o
+                0x0000000000806004                USART0_stream
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.spi0_configuration
+                0x0000000000806012        0x4 build/default/production/mcc_generated_files/spi/src/spi0.o
+ .rodata.reseed.str1.1
+                0x0000000000806016       0x13 build/default/production/main.o
+ .rodata.store.str1.1
+                0x0000000000806029       0x1b build/default/production/main.o
+ .rodata.load.str1.1
+                0x0000000000806044       0x43 build/default/production/main.o
+ .rodata.menu_show.str1.1
+                0x0000000000806087      0x131 build/default/production/main.o
+ .rodata.settings_show.str1.1
+                0x00000000008061b8       0x79 build/default/production/main.o
+ .rodata.interpret_line.str1.1
+                0x0000000000806231       0x4f build/default/production/main.o
+ .rodata.anim.str1.1
+                0x0000000000806280       0x41 build/default/production/main.o
+ .rodata.main.str1.1
+                0x00000000008062c1       0x61 build/default/production/main.o
+ .rodata.anim_cols
+                0x0000000000806322       0x4b build/default/production/anim.o
+                0x0000000000806322                anim_cols
+ .rodata.anim_rows
+                0x000000000080636d       0x2c build/default/production/anim.o
+                0x000000000080636d                anim_rows
+ *(.gnu.linkonce.r*)
+                0x000000000080639a                . = ALIGN (0x2)
+ *fill*         0x0000000000806399        0x1 
+                0x000000000080639a                _edata = .
+                0x000000000080639a                PROVIDE (__data_end, .)
+
+.bss            0x000000000080639a      0x31e
+                0x000000000080639a                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.ADC0_resrdy_cb
+                0x000000000080639a        0x2 build/default/production/mcc_generated_files/adc/src/adc0.o
+                0x000000000080639a                ADC0_resrdy_cb
+ .bss.ADC0_window_cb
+                0x000000000080639c        0x2 build/default/production/mcc_generated_files/adc/src/adc0.o
+                0x000000000080639c                ADC0_window_cb
+ .bss.spi0_descriptor
+                0x000000000080639e        0x6 build/default/production/mcc_generated_files/spi/src/spi0.o
+ .bss.SPI0_RxCompleteCallback
+                0x00000000008063a4        0x2 build/default/production/mcc_generated_files/spi/src/spi0.o
+ .bss.IO_PA6_InterruptHandler
+                0x00000000008063a6        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+ .bss.IO_PA4_InterruptHandler
+                0x00000000008063a8        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+ .bss.IO_PA5_InterruptHandler
+                0x00000000008063aa        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+ .bss.IO_PA0_InterruptHandler
+                0x00000000008063ac        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+ .bss.IO_PA1_InterruptHandler
+                0x00000000008063ae        0x2 build/default/production/mcc_generated_files/system/src/pins.o
+ .bss.USART0_RxCompleteInterruptHandler
+                0x00000000008063b0        0x2 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .bss.USART0_TxCompleteInterruptHandler
+                0x00000000008063b2        0x2 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .bss.usart0RxLastError
+                0x00000000008063b4        0x2 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .bss.usart0RxStatusBuffer
+                0x00000000008063b6       0x80 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .bss.usart0RxBuffer
+                0x0000000000806436       0x40 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .bss.usart0RxTail
+                0x0000000000806476        0x1 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .bss.usart0RxHead
+                0x0000000000806477        0x1 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .bss.usart0TxBuffer
+                0x0000000000806478       0x40 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .bss.usart0TxTail
+                0x00000000008064b8        0x1 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .bss.usart0TxHead
+                0x00000000008064b9        0x1 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .bss.interacted
+                0x00000000008064ba        0x1 build/default/production/main.o
+                0x00000000008064ba                interacted
+ .bss.intensity_setting
+                0x00000000008064bb        0x1 build/default/production/main.o
+                0x00000000008064bb                intensity_setting
+ .bss.saturation_setting
+                0x00000000008064bc        0x1 build/default/production/main.o
+                0x00000000008064bc                saturation_setting
+ .bss.pause_setting
+                0x00000000008064bd        0x2 build/default/production/main.o
+                0x00000000008064bd                pause_setting
+ .bss.rx_idx    0x00000000008064bf        0x1 build/default/production/main.o
+                0x00000000008064bf                rx_idx
+ *(COMMON)
+ COMMON         0x00000000008064c0        0xc build/default/production/mcc_generated_files/uart/src/usart0.o
+                0x00000000008064c0                USART0_RxInterruptHandler
+                0x00000000008064c2                USART0_TxInterruptHandler
+                0x00000000008064c4                USART0_OverrunErrorHandler
+                0x00000000008064c6                usart0TxBufferRemaining
+                0x00000000008064c7                usart0RxCount
+                0x00000000008064c8                USART0_FramingErrorHandler
+                0x00000000008064ca                USART0_ParityErrorHandler
+ COMMON         0x00000000008064cc      0x1e6 build/default/production/main.o
+                0x00000000008064cc                frame_intensities
+                0x00000000008064f0                frame_next_intensities
+                0x0000000000806514                buffer
+                0x00000000008065ba                frame_next_hues
+                0x0000000000806602                rx_buf
+                0x0000000000806622                frame_hues
+                0x000000000080666a                frame_hues_directions
+                0x000000000080668e                frame_next_touched
+ COMMON         0x00000000008066b2        0x6 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(iob.o)
+                0x00000000008066b2                __iob
+                0x00000000008066b8                PROVIDE (__bss_end, .)
+                0x000000000000309c                __data_load_start = LOADADDR (.data)
+                0x0000000000003436                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00000000008066b8        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x00000000008066b8                _end = .
+                [!provide]                        PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse           0x0000000000820000        0x9
+ *(.fuse)
+ .fuse          0x0000000000820000        0x9 build/default/production/mcc_generated_files/system/src/config_bits.o
+                0x0000000000820000                __fuse
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x5c
+ *(.comment)
+ .comment       0x0000000000000000       0x30 build/default/production/mcc_generated_files/adc/src/adc0.o
+                                         0x31 (size before relaxing)
+ .comment       0x0000000000000030       0x31 build/default/production/mcc_generated_files/nvm/src/nvm.o
+ .comment       0x0000000000000030       0x31 build/default/production/mcc_generated_files/spi/src/spi0.o
+ .comment       0x0000000000000030       0x31 build/default/production/mcc_generated_files/system/src/clock.o
+ .comment       0x0000000000000030       0x31 build/default/production/mcc_generated_files/system/src/interrupt.o
+ .comment       0x0000000000000030       0x31 build/default/production/mcc_generated_files/system/src/pins.o
+ .comment       0x0000000000000030       0x31 build/default/production/mcc_generated_files/system/src/config_bits.o
+ .comment       0x0000000000000030       0x31 build/default/production/mcc_generated_files/system/src/system.o
+ .comment       0x0000000000000030       0x31 build/default/production/mcc_generated_files/timer/src/delay.o
+ .comment       0x0000000000000030       0x31 build/default/production/mcc_generated_files/uart/src/usart0.o
+ .comment       0x0000000000000030       0x31 build/default/production/mcc_generated_files/vref/src/vref.o
+ .comment       0x0000000000000030       0x31 build/default/production/main.o
+ .comment       0x0000000000000030       0x31 build/default/production/anim.o
+ .comment       0x0000000000000030       0x31 build/default/production/fast_hsv2rgb_8bit.o
+ .comment       0x0000000000000030       0x31 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(rand.o)
+ .comment       0x0000000000000030       0x31 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(iob.o)
+ .comment       0x0000000000000030       0x31 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(printf.o)
+ .comment       0x0000000000000030       0x31 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(putchar.o)
+ .comment       0x0000000000000030       0x31 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(puts.o)
+ .comment       0x0000000000000030       0x31 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(sscanf.o)
+ .comment       0x0000000000000030       0x2c c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(vfprintf_std.o)
+                                         0x2d (size before relaxing)
+ .comment       0x000000000000005c       0x2d c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(vfscanf_std.o)
+ .comment       0x000000000000005c       0x31 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(fgetc.o)
+ .comment       0x000000000000005c       0x31 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(fputc.o)
+ .comment       0x000000000000005c       0x31 c:/users/kiu/documents/projects/avr8-gnu-toolchain-win32_x86_64/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avrxmega2\libc.a(ungetc.o)
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c C:/Users/kiu/.mchp_packs/Microchip/AVR-Dx_DFP/2.5.294/gcc/dev/avr64dd32/avrxmega2/crtavr64dd32.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x22a4
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x22a4 C:/Users/kiu/.mchp_packs/Microchip/AVR-Dx_DFP/2.5.294/gcc/dev/avr64dd32/avrxmega2/crtavr64dd32.o
+
+.debug_abbrev   0x0000000000000000     0x20ce
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000     0x20ce C:/Users/kiu/.mchp_packs/Microchip/AVR-Dx_DFP/2.5.294/gcc/dev/avr64dd32/avrxmega2/crtavr64dd32.o
+
+.debug_line     0x0000000000000000      0x16f
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x16f C:/Users/kiu/.mchp_packs/Microchip/AVR-Dx_DFP/2.5.294/gcc/dev/avr64dd32/avrxmega2/crtavr64dd32.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000      0xefb
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0xefb C:/Users/kiu/.mchp_packs/Microchip/AVR-Dx_DFP/2.5.294/gcc/dev/avr64dd32/avrxmega2/crtavr64dd32.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(dist/default/production/MsICP-firmware.X.production.elf elf32-avr)
+LOAD linker stubs
